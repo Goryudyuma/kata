@@ -7,7 +7,7 @@ package kata.ex01.model;
  */
 public enum RouteType {
     /** 都市部 */
-    RURAL,
-    /** 地方部 */
     URBAN,
+    /** 地方部 */
+    RURAL,
 }
